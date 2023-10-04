@@ -35,7 +35,7 @@
         layer_2 {
             bindings = <
         &trans  &trans         &trans  &trans     &trans  &trans     &trans      &trans        &trans        &trans      &trans            &trans
-&trans  &trans  &kp LC(LSHFT)  &kp F7  &kp F8     &kp F9  &kp F10    &kp HOME    &kp PG_DN     &kp PG_UP     &kp END     &trans            &trans     &kp RALT
+&trans  &trans  &kp LA(LSHFT)  &kp F7  &kp F8     &kp F9  &kp F10    &kp HOME    &kp PG_DN     &kp PG_UP     &kp END     &trans            &trans     &kp RALT
         &trans  &trans         &kp F4  &kp F5     &kp F6  &kp F11    &kp LEFT    &kp DOWN      &kp UP        &kp RIGHT   &trans            &kp RCTRL
         &trans  &trans         &kp F1  &kp F2     &kt F3  &kp F12    &kp K_PREV  &kp C_VOL_DN  &kp C_VOL_UP  &kt K_NEXT  &kt K_PLAY_PAUSE  &kp RGUI
                                        &lt 3 TAB  &trans  &trans     &trans      &trans        &lt 3 TAB
